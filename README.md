@@ -6,39 +6,38 @@ This project implements a deep learning-based time series forecasting system usi
 ---
 
 ## 🚀 Key Features
-- 📈 Time-series forecasting using LSTM
-- 🌡️ Temperature prediction
-- 🌧️ Rainfall prediction
-- 📊 Visualization of Actual vs Predicted values
-- 📉 Model performance tracking using loss curves
-- 🔄 Data preprocessing and scaling using MinMaxScaler
+- 📈 Time-series forecasting using LSTM  
+- 🌡️ Temperature prediction  
+- 🌧️ Rainfall prediction  
+- 📊 Visualization of Actual vs Predicted values  
+- 📉 Model performance tracking using loss curves  
+- 🔄 Data preprocessing and scaling using MinMaxScaler  
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
 ### 👨‍💻 Programming & Libraries
-- Python
-- NumPy
-- Pandas
+- Python  
+- NumPy  
+- Pandas  
 
 ### 🤖 Machine Learning / Deep Learning
-- TensorFlow
-- Keras
-- Scikit-learn (for preprocessing)
+- TensorFlow  
+- Keras  
+- Scikit-learn  
 
 ### 📊 Visualization
-- Matplotlib
-- Seaborn
+- Matplotlib  
+- Seaborn  
 
 ### 🛠️ Development Tools
-- Jupyter Notebook / Google Colab
-- Git & GitHub
+- Jupyter Notebook / Google Colab  
+- Git & GitHub  
 
 ---
 
 ## ⚙️ Workflow
-
 1. Data Collection & Cleaning  
 2. Feature Engineering  
 3. Data Scaling (MinMaxScaler)  
@@ -52,11 +51,10 @@ This project implements a deep learning-based time series forecasting system usi
 
 ## 📂 Project Structure
 
-data/  
-notebooks/  
-outputs/  
-
---- 
+- **data/** → Contains raw dataset used for training  
+- **notebooks/** → Jupyter Notebook with model implementation  
+- **outputs/** → Generated graphs and prediction results  
+---
 
 ## 📊 Results
 
@@ -67,5 +65,12 @@ outputs/
 ![Loss vs Epoch](outputs/loss_vs_epoch.png)
 
 ---
+
+## 📁 Output Files
+- Graphs showing model performance  
+- `predictions.csv` containing forecasted values  
+
+---
+
 ## 👨‍💻 Author
 **Aaryan Bhandare**

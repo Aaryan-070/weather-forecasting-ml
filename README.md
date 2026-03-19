@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecasting using LSTM
+# 🌦️ LSTM-based Weather Forecasting System (Edge-Enabled)
 
 ## 📌 Overview
 This project implements a deep learning-based time series forecasting system using LSTM (Long Short-Term Memory) networks to predict temperature and rainfall based on historical weather data.
@@ -53,7 +53,18 @@ This project implements a deep learning-based time series forecasting system usi
 
 - **data/** → Contains raw dataset used for training  
 - **notebooks/** → Jupyter Notebook with model implementation  
-- **outputs/** → Generated graphs and prediction results  
+- **outputs/** → Generated graphs and prediction results
+  
+---
+
+## 📈 Model Performance
+
+- R² Score: 0.9875  
+- RMSE: 0.6511  
+- MAE: 0.5607
+
+- Data Frequency: 15-minute intervals
+
 ---
 
 ## 📊 Results

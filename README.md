@@ -59,11 +59,11 @@ This project implements a deep learning-based time series forecasting system usi
 
 ## 📈 Model Performance
 
-- R² Score: 0.9875  
-- RMSE: 0.6511  
-- MAE: 0.5607
+- **R² Score:** 0.9875  
+- **RMSE:** 0.6511  
+- **MAE:** 0.5607  
 
-- Data Frequency: 15-minute intervals
+- **Data Frequency:** 15-minute intervals  
 
 ---
 
